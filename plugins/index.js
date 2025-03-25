@@ -4,5 +4,6 @@ export { default as formatDate } from './formatDatePlugin'
 export { default as globalComponent } from './globalComponent'
 export { default as themePlugin } from './themePlugin'
 export { default as timeOut } from './timeOutPlugin'
-export { default as vuetify } from './vuetify'
+export { default as useThemePlugin } from './useThemePlugin'
+export { default as vuetify } from './vuetifyPlugin'
 
